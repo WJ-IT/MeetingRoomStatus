@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="arimg">
+        <item>@drawable/img01</item>
+        <item>@drawable/img02</item>
+        <item>@drawable/img03</item>
+        <item>@drawable/img04</item>
+        <item>@drawable/img05</item>
+    </array>
+</resources>
